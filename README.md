@@ -199,7 +199,8 @@ void client() {
 
 
 ## OUTPUT
-![fifo](./img/ex3-fifo.png)
+
+<img width="966" height="189" alt="Screenshot 2025-09-20 090140" src="https://github.com/user-attachments/assets/692b018a-bed0-47e4-992d-51792dd6699a" />
 
 # RESULT:
 The program is executed successfully.
